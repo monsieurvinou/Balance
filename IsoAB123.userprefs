@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Bluelake City\Assets\02_SCRIPTS\Player\Player.cs">
+    <Files>
+      <File FileName="..\Bluelake City\Assets\02_SCRIPTS\Player\Player.cs" Line="5" Column="25" />
+      <File FileName="..\AQB552\Assets\Scripts\FirstPersonController.cs" Line="11" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
